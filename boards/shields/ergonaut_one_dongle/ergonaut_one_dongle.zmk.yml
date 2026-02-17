@@ -1,6 +1,6 @@
 file_format: '1'
-id: ergonaut_one
-name: Ergonaut One
+id: ergonaut_one_dongle
+name: Ergonaut One Dongle
 type: shield
 url: https://github.com/ergonautkb/one
 requires: [seeeduino_xiao_ble]
