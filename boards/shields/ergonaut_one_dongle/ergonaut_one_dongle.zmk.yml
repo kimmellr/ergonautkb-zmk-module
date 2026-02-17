@@ -3,7 +3,7 @@ id: ergonaut_one_dongle
 name: Ergonaut One Dongle
 type: shield
 url: https://github.com/ergonautkb/one
-requires: [xiao_ble]
+requires: [seeeduino_xiao_ble]
 features:
   - keys
 siblings:
