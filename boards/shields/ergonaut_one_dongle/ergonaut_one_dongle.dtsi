@@ -6,7 +6,7 @@
 
 #include <dt-bindings/zmk/matrix_transform.h>
 
-#include "ergonaut_one_layout.dtsi"
+#include "ergonaut_one_dongle_layout.dtsi"
 
 &ergonaut_one_layout {
     transform = <&default_transform>;

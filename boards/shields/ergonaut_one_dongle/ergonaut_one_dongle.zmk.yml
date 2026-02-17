@@ -7,6 +7,6 @@ requires: [seeeduino_xiao_ble]
 features:
   - keys
 siblings:
-  - ergonaut_one_left
-  - ergonaut_one_right
+  - ergonaut_one_dongle_left
+  - ergonaut_one_dongle_right
   - ergonaut_one_dongle
